@@ -1,0 +1,2 @@
+- All the comments on the code(marked by a #) were provided to me.
+- When running this code in Python, you will redirected to the 'Automobile Sales Dashboard' (a Dash app).
